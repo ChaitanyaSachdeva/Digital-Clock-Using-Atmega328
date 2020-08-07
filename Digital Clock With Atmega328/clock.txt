@@ -1,0 +1,16 @@
+Partlist exported from C:/Users/shreya agrawal/Documents/EAGLE/projects/DIGI_clock/clock.sch at 28-06-2020 02:02 AM
+
+Part  Value          Device                          Package                  Description                                                                                                     PROD_ID     SF_ID     SF_SKU    VALUE
+C1    0.1uF          C-USC1206                       C1206                    CAPACITOR, American symbol                                                                                                                           
+C2    22pF           C-USC1206                       C1206                    CAPACITOR, American symbol                                                                                                                           
+C3    22pF           C-USC1206                       C1206                    CAPACITOR, American symbol                                                                                                                           
+J1                   CONN_02                         1X02                     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                      
+LCD1  LCD-16X2NOSILK LCD-16X2NOSILK                  LCD-16X2_NOSILK          Standard text-only 16x2 parallel input LCD                                                                                  LCD-00255                
+POWER 1X2-3.5MM      1X2-3.5MM                       1X2-3.5MM                3.5mm Terminal block                                                                                                                                 
+R1    10k            R_1206                          R1206                    RESISTOR                                                                                                                                             
+S1    HRS            MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST                                                                             SWCH-08441           COM-00097      
+S2    MIN            MOMENTARY-SWITCH-SPST-PTH-6.0MM TACTILE_SWITCH_PTH_6.0MM Momentary Switch (Pushbutton) - SPST                                                                             SWCH-08441           COM-00097      
+U1    328P           ATMEGA328P_PDIP                 DIP28                    Atmel 328P                                                                                                      IC-09136                        328P 
+VREG  78L05Z         78L05Z                          TO92                     Positive VOLTAGE REGULATOR                                                                                                                           
+Y1                   CRYSTALPTH-HC49US               HC49US                   Crystals (Generic)                                                                                                                                   
+Y2                   CRYSTALPTH-HC49US               HC49US                   Crystals (Generic)                                                                                                                                   
